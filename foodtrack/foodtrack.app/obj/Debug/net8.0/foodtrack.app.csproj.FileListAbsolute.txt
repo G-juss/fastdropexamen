@@ -1,0 +1,15 @@
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\foodtrack.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\foodtrack.app.AssemblyInfoInputs.cache
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\foodtrack.app.AssemblyInfo.cs
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\foodtrack.app.csproj.CoreCompileInputs.cache
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\foodtrack.app.sourcelink.json
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\bin\Debug\net8.0\foodtrack.app.exe
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\bin\Debug\net8.0\foodtrack.app.deps.json
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\bin\Debug\net8.0\foodtrack.app.runtimeconfig.json
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\bin\Debug\net8.0\foodtrack.app.dll
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\bin\Debug\net8.0\foodtrack.app.pdb
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\foodtrack.app.dll
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\refint\foodtrack.app.dll
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\foodtrack.app.pdb
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\foodtrack.app.genruntimeconfig.cache
+C:\Users\Juss\Documents\GitHub\fastdrop\foodtrack\foodtrack.app\obj\Debug\net8.0\ref\foodtrack.app.dll

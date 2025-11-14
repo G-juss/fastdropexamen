@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("foodtrack.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03bd47d815d1c59d26c1d479c3fe031118c916e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb3bfefb51cd2ccd830a769d29b9b6cdab19aad9")]
 [assembly: System.Reflection.AssemblyProductAttribute("foodtrack.app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("foodtrack.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
